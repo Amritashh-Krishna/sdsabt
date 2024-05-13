@@ -1,0 +1,45 @@
+body {
+  overflow-x: hidden;
+}
+.welcome {
+    
+    
+    min-height: 100vh;
+    font-size: 2rem;
+    color: white;
+    
+    display: inline-block;
+
+}
+.we{
+  color: #ff0000; padding-left: 15%; padding-right: 15%; background: -webkit-linear-gradient(#4C239D, #FF00C6);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.headings{
+  padding-left: 15%; padding-right: 15%; font-family: 'Playfair Display';
+}
+.para{
+  font-family: 'Alice'; font-size: 1.35rem; padding-left: 15% ; padding-right: 15%;
+}
+.who {
+    
+    padding-top: 5%;
+    padding-bottom: 5%;
+    height: auto;
+    font-size: 2rem;
+    color: white;
+    
+    background-image: linear-gradient();
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+    
+  }
+
+  
+  
